@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😎 About Me:
 Hi, I’m Srijan Ratrey<br><br>🎓 AI/ML Enthusiast | 👨🏻‍🎓Final year at IIIT NR | 🧠 Builder of Intelligent Systems | 📍 Based in Bangalore, India  <br>🚀 Passionate about transforming ideas into real-world AI solutions.<br><br>About Me<br><br>- 🌱 Currently exploring AI Agents, NLP, and Generative AI.<br>- 🛠️ Working on real-world applications in Computer Vision, LLMs, and Multimodal AI.<br>- 🎯 Goal: Build intelligent and scalable AI systems that drive measurable impact.
 
 
