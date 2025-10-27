@@ -1,5 +1,5 @@
 # 😎 About Me:
-Hi, I’m Srijan Ratrey<br><br>🎓 AI/ML Enthusiast | 👨🏻‍🎓Final year at IIIT NR | 🧠 Builder of Intelligent Systems | 📍 Based in Bangalore, India  
+Hi, I’m Srijan Ratrey<br><br>🎓 AI/ML Enthusiast | 👨🏻‍🎓Passed out from IIIT NR | 🧠 Builder of Intelligent Systems | 📍 Based in Bangalore, India  
 
 
 ## 🌐 Socials:
